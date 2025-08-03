@@ -7,7 +7,7 @@ import Students from "./pages/Students";
 import Results from "./pages/Results";
 
 import Dashboard from "./pages/Dashboard";
-import MultiStepForm from "./pages/MultiStepForm";
+import MultiStepForm from "./pages/MultistepForm";
 import MCQTest from "./pages/MCQTest";
 
 
