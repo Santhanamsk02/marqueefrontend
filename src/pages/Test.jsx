@@ -188,7 +188,7 @@ const [warnings, setWarnings] = useState([]);
    useEffect(() => {
     const interval = setInterval(() => {
       handleDetection();
-    }, 500);
+    }, 1000);
 
     return () => clearInterval(interval);
    }, [focusPercent, presencePercent, talkingPercent]);
